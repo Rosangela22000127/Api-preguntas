@@ -1,0 +1,109 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se llama el protagonista de Five Nights at Freddy's?",
+      "respuestas": ["Freddy","Bonnie","Chica", "Foxy"],
+        "respuesta_correcta": "Freddy"
+      },
+      {
+        "pregunta": "¿En qué año se establece la trama de Five Nights at Freddy's 2?",
+        "respuestas": ["1983", "1987", "1993", "1998"],
+        "respuesta_correcta": "1987"
+      },
+      {
+        "pregunta": "¿En qué año fue lanzado el primer juego de Five Nights at Freddy's?",
+        "respuestas": ["2020","2015","2014","2011"],
+        "respuesta_correcta": "2014"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del restaurante donde se desarrolla la mayor parte de la historia de Five Nights at Freddy's?",
+        "respuestas": ["Fredbear's Family Diner","Freddy Fazbear's Pizza","Fazbear's Fright","Mega Pizza Plex"],
+        "respuesta_correcta": "Fredbear's Family Diner"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del protagonista del primer juego de Five Nights at Freddy's?",
+        "respuestas": ["Jeremy Fitzgerald","Fritz Smith","Mike Schmidt","Scott Cawthon"],
+        "respuesta_correcta": "Mike Schimdt"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es conocido por su risa escalofriante en Five Nights at Freddy's 2?",
+        "respuestas": ["Toy Chica","Mangle","Toy Freddy","Balloon Boy"],
+        "respuesta_correcta": "Balloon Boy"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del niño que posee a Golden Freddy?",
+        "respuestas": ["Cassidy","Gabriel","Susie","Fritz"],
+        "respuesta_correcta": "Cassidy"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es un oso de peluche que aparece en la habitación de la Oficina en Five Nights at Freddy's 4?",
+        "respuestas": ["Nightmare Balloon Boy","Plushtrap","Nightmarionne","Nightmare Mangle"],
+        "respuesta_correcta": "Plushtrap"
+      },
+      {
+        "pregunta": "¿Cuál es el nombre del protagonista de Five Nights at Freddy's 3?",
+        "respuestas": ["Phantom Chica","Freddy Fazbear","Springtrap","Phantom Foxy"],
+        "respuesta_correcta": "Springtrap"
+      },
+      {
+        "pregunta": "¿Quién es el creador de la serie de juegos Five Nights at Freddy's?",
+        "respuestas": ["Kim Swift","Jeremy Fitzgerald","Mat Pat","Scott Cawthon"],
+        "respuesta_correcta": "Scott Cawthon"
+      },
+      {
+        "pregunta": "Qué animatrónico tiene una marioneta como contraparte?",
+        "respuestas": ["Toy Freddy", "Toy Bonnie", "Charlotte", "Puppet"],
+        "respuesta_correcta": "Puppet"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es una versión glamrock de Freddy Fazbear?",
+        "respuestas": ["Bonnie","Roxanne","Freddy","Montgomery Gator"],
+        "respuesta_correcta": "Freddy"
+      },
+      {
+        "pregunta": "¿Qué animatrónico sustituye a Foxy en Security Breach?",
+        "respuestas": ["Foxy","Roxanne","Freddy","Mangle"],
+        "respuesta_correcta": "Roxanne"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es conocido por su comportamiento impredecible y caótico en Five Nights at Freddy's: Sister Location?",
+        "respuestas": ["Funtime Freddy", "Ballora", "Circus Baby", "Ennard"],
+        "respuesta_correcta": "Ennard"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es conocido por su diseño similar a un lobo en Five Nights at Freddy's 2?",
+        "respuestas": ["Foxy","Mangle","Puppet","Chica"],
+        "respuesta_correcta": "Foxy"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es conocido por su aparición en Five Nights at Freddy's 4 y su conexión con la canción I Got No Time?",
+        "respuestas": ["Nightmare Freddy","Nightmare","Nightmare Chica","Nightmare Foxy"],
+        "respuesta_correcta": "Nightmare"
+      },
+      {
+        "pregunta": "¿Qué animatrónico es conocido por su aparición en Five Nights at Freddy's 4 y su conexión con la canción I Got No Time?",
+        "respuestas": ["Nightmare Freddy","Nightmare","Nightmare Chica","Nightmare Foxy"],
+        "respuesta_correcta": "Nightmare"
+      },
+      {
+        "pregunta": "¿Quién hace la voz para el The Phone guy en Five Nights at Freddy 1, 2, y 3",
+        "respuestas": ["Kellen go","Nightmare","Scott Cawthon","Jade Kindar"],
+        "respuesta_correcta": "Scott Cawthon"
+      },
+      {
+        "pregunta": "¿Qué Glamrock te ayuda en Freddy's: Security Breach?",
+        "respuestas": ["Glamrock Chica","Glamrock Bonnie","Glamrock Roxanne","Glamrock Freddy"],
+        "respuesta_correcta": "Scott Cawthon"
+      },
+      {
+        "pregunta": "¿Quién es el protagonista de Five Nights at Freddy's: Security Breach?",
+        "respuestas": ["Gregory","M.X.E.S","Cassie","William Afton"],
+        "respuesta_correcta": "Gregory"
+      },
+      {
+        "pregunta": "¿Qué animatrónico teiene una bolera en Five Nights at Freddy's: Security Breach",
+        "respuestas": ["Glamrock Freddy","Glamrock Bonnie","Glamrock Montgomery Gator","Glamrock Chica"],
+        "respuesta_correcta": "Glamrock Bonnie"
+      }
+    ]
+  }
